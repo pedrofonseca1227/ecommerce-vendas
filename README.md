@@ -1,5 +1,11 @@
 # Ecommerce Vendas
 
+Aplicação de e-commerce desenvolvida com React, TypeScript e Vite, com integração Firebase e sistema de carrinho, pedidos e pagamentos.
+
+---
+
+# Ecommerce Vendas
+
 AplicaÃ§Ã£o de e-commerce desenvolvida com React, TypeScript e Vite, com integraÃ§Ã£o Firebase e sistema de carrinho, pedidos e pagamentos.
 
 ---
